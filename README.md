@@ -6,12 +6,6 @@ Bot de chat de Twitch en Node.js. Evita que el streamer tenga que responder "¿c
 🎮 pick: jinx - winrate: 54% - elo lobby: emerald 🎮
 ```
 
-## Live Deployment
-
-> **Demo:** `[AGREGAR LINK AL CANAL O A UN CLIP DEL BOT FUNCIONANDO]`
->
-> Es un proceso de Node que corre en local o en un servidor; no tiene URL publica.
-
 ## Tech Stack
 
 Node.js · tmi.js · axios · Riot Games API (Account, Spectator, League) · Data Dragon
